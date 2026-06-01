@@ -1,0 +1,8 @@
+homepage: 'https://tagstream.co.uk/'  # Add your GitHub repo or documentation URL here
+documentation: "https://github.com/tagstream-analytics/gtm-templates-public/tree/main/tags/event_to_hubspot_contact"
+versions:
+  - sha: 61ba6a10b28ba8b4e76e79fdb2b24846abedf805
+    changeNotes: Initial release.
+
+
+
